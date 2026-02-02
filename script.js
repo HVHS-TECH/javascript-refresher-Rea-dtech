@@ -7,5 +7,5 @@ alert('hi')
 }
 
 function alert1 () {
-    alert(input2)
+    alert(Hello, + input2);
 }
